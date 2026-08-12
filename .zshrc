@@ -19,7 +19,6 @@ export PATH="$PATH:/Users/garrenmiller/.lmstudio/bin"
 
 # opencode
 export PATH=/Users/garrenmiller/.opencode/bin:$PATH
-source /Users/garrenmiller/.config/llama-cpp/config.sh
 
 # Android stuff
 export ANDROID_HOME="/opt/homebrew/share/android-commandlinetools"
